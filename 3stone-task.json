@@ -51,6 +51,7 @@
 			 "0 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/p3stone/jd-lxk0301/main/jd_speed_redpocke.js?token=AHHIXZDSGSACCAQB2DCTIQDAYJAM4, tag=京东极速版红包, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/lxk0301.png, enabled=true",
 		     "10 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/p3stone/jd-lxk0301/main/jd_syj.js?token=AHHIXZAZNXCYCG4FK5AIYZLAYJAQW, tag=京东赚京豆, img-url=https://ghproxy.com/https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true",
 		     "55 23 * * * https://ghproxy.com/https://raw.githubusercontent.com/p3stone/jd-lxk0301/main/jd_unsubscribe.js?token=AHHIXZBBVL3UL6JKB4PJH33AYJASK, tag=取关京东店铺商品, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/lxk0301.png, enabled=true",
+			 "15 17 * * * https://ghproxy.com/https://raw.githubusercontent.com/p3stone/jd-lxk0301/main/xmSports.js?token=AHHIXZCCPD5MFRHC3CDBXGTAYJCYO, tag=小米运动, img-url=https://ghproxy.com/https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=true",
 	
 	
 	       ]
